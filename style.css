@@ -5,3 +5,12 @@ body{
 .material-icons{
     font-size: 40px;
 }
+.container{
+    margin:0;
+    padding:0;
+}
+.card{
+  
+    padding:20px;
+    margin:20px;
+}
